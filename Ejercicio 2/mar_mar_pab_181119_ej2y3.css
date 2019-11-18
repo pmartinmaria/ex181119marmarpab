@@ -1,0 +1,37 @@
+.contenedorMenumarmarpab{
+    background-color: darkslategray;
+    padding-top: 10px;
+    padding-bottom: 9px;
+}
+.activomarmarpab{
+    background-color: lightblue;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    
+}
+.noActivomarmarpab{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.noActivomarmarpab:hover{
+    background-color: darkgray;
+    padding: 10px;
+}
+.contenedor2marmarpab{
+    margin: auto;
+    margin-top: 20px;
+    border: 1px solid black;
+}
+.contenedor2marmarpab div{
+    width: 30%;
+    display: inline-block;
+    margin: auto;
+    padding: 1.52%;
+}
+.contenedor2marmarpab img{
+    width: 100%;
+    display: inline-block;
+    margin: auto;
+}
